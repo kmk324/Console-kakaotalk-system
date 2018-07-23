@@ -13,7 +13,7 @@ C++ console KakaoTalk system
    | file    | description                                      |
    | ------- | ------------------------------------------------ |
    | ./doc/* | report and presentation ppt files in this folder |
-   | ./exe/* | executing file in this folder                    |
+   | ./exe/* | executing files in this folder                   |
    | ./src/* | all source files in this folder                  |
 
 3. **How to run**
