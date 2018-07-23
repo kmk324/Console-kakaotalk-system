@@ -25,4 +25,4 @@ C++ console KakaoTalk system
 
 4. **Execution screen**
 
-   ![Execution screen](./execution screen.png)
+   ![Execution screen](./execution_screen.png)
